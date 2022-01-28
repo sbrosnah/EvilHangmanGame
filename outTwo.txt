@@ -1,0 +1,150 @@
+You have 26 guesses left
+Used letters: []
+Word: ------
+Enter guess: a
+Sorry, there are no a
+
+You have 25 guesses left
+Used letters: [a]
+Word: ------
+Enter guess: b
+Sorry, there are no b
+
+You have 24 guesses left
+Used letters: [a, b]
+Word: ------
+Enter guess: c
+Sorry, there are no c
+
+You have 23 guesses left
+Used letters: [a, b, c]
+Word: ------
+Enter guess: d
+Sorry, there are no d
+
+You have 22 guesses left
+Used letters: [a, b, c, d]
+Word: ------
+Enter guess: e
+Sorry, there are no e
+
+You have 21 guesses left
+Used letters: [a, b, c, d, e]
+Word: ------
+Enter guess: f
+Sorry, there are no f
+
+You have 20 guesses left
+Used letters: [a, b, c, d, e, f]
+Word: ------
+Enter guess: g
+Sorry, there are no g
+
+You have 19 guesses left
+Used letters: [a, b, c, d, e, f, g]
+Word: ------
+Enter guess: h
+Sorry, there are no h
+
+You have 18 guesses left
+Used letters: [a, b, c, d, e, f, g, h]
+Word: ------
+Enter guess: i
+Sorry, there are no i
+
+You have 17 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i]
+Word: ------
+Enter guess: j
+Sorry, there are no j
+
+You have 16 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j]
+Word: ------
+Enter guess: k
+Sorry, there are no k
+
+You have 15 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k]
+Word: ------
+Enter guess: l
+Sorry, there are no l
+
+You have 14 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k, l]
+Word: ------
+Enter guess: m
+Sorry, there are no m
+
+You have 13 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k, l, m]
+Word: ------
+Enter guess: n
+Sorry, there are no n
+
+You have 12 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k, l, m, n]
+Word: ------
+Enter guess: o
+Sorry, there are no o
+
+You have 11 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o]
+Word: ------
+Enter guess: p
+Sorry, there are no p
+
+You have 10 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p]
+Word: ------
+Enter guess: q
+Sorry, there are no q
+
+You have 9 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q]
+Word: ------
+Enter guess: r
+Yes, there is 1 r
+
+You have 9 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r]
+Word: -r----
+Enter guess: s
+Yes, there is 2 s
+
+You have 9 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s]
+Word: -r-s-s
+Enter guess: t
+Yes, there is 2 t
+
+You have 9 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t]
+Word: tr-sts
+Enter guess: u
+Sorry, there are no u
+
+You have 8 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u]
+Word: tr-sts
+Enter guess: v
+Sorry, there are no v
+
+You have 7 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v]
+Word: tr-sts
+Enter guess: w
+Sorry, there are no w
+
+You have 6 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w]
+Word: tr-sts
+Enter guess: x
+Sorry, there are no x
+
+You have 5 guesses left
+Used letters: [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x]
+Word: tr-sts
+Enter guess: y
+Yes, there is 1 y
+You win! You guessed the word: trysts

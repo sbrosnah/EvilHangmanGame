@@ -1,0 +1,68 @@
+You have 10 guesses left
+Used letters: []
+Word: ------
+Enter guess: a
+Sorry, there are no a
+
+You have 9 guesses left
+Used letters: [a]
+Word: ------
+Enter guess:
+a
+Guess already made! Enter guess: a
+Guess already made! Enter guess: z
+Sorry, there are no z
+
+You have 8 guesses left
+Used letters: [a, z]
+Word: ------
+Enter guess: qw
+Invalid input! Enter guess: we
+Invalid input! Enter guess: er
+Invalid input! Enter guess: y
+Sorry, there are no y
+
+You have 7 guesses left
+Used letters: [a, y, z]
+Word: ------
+Enter guess: H
+Sorry, there are no h
+
+You have 6 guesses left
+Used letters: [a, h, y, z]
+Word: ------
+Enter guess: h
+Guess already made! Enter guess: i
+Sorry, there are no i
+
+You have 5 guesses left
+Used letters: [a, h, i, y, z]
+Word: ------
+Enter guess: 1
+Invalid input! Enter guess: j
+Sorry, there are no j
+
+You have 4 guesses left
+Used letters: [a, h, i, j, y, z]
+Word: ------
+Enter guess: k
+Sorry, there are no k
+
+You have 3 guesses left
+Used letters: [a, h, i, j, k, y, z]
+Word: ------
+Enter guess: m n
+Sorry, there are no m
+
+You have 2 guesses left
+Used letters: [a, h, i, j, k, m, y, z]
+Word: ------
+Enter guess: Sorry, there are no n
+
+You have 1 guesses left
+Used letters: [a, h, i, j, k, m, n, y, z]
+Word: ------
+Enter guess: p
+Sorry, there are no p
+
+Sorry, you lost! The word was: busses

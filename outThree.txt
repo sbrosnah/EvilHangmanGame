@@ -1,0 +1,89 @@
+You have 12 guesses left
+Used letters: []
+Word: -----
+Enter guess: q
+Sorry, there are no q
+
+You have 11 guesses left
+Used letters: [q]
+Word: -----
+Enter guess: 1
+Invalid input! Enter guess: we
+Invalid input! Enter guess: y
+Sorry, there are no y
+
+You have 10 guesses left
+Used letters: [q, y]
+Word: -----
+Enter guess: Q
+Guess already made! Enter guess: w
+Sorry, there are no w
+
+You have 9 guesses left
+Used letters: [q, w, y]
+Word: -----
+Enter guess: xx
+Invalid input! Enter guess: x
+Sorry, there are no x
+
+You have 8 guesses left
+Used letters: [q, w, x, y]
+Word: -----
+Enter guess: x
+Guess already made! Enter guess: t
+Sorry, there are no t
+
+You have 7 guesses left
+Used letters: [q, t, w, x, y]
+Word: -----
+Enter guess: T
+Guess already made! Enter guess: e
+Sorry, there are no e
+
+You have 6 guesses left
+Used letters: [e, q, t, w, x, y]
+Word: -----
+Enter guess: i
+Sorry, there are no i
+
+You have 5 guesses left
+Used letters: [e, i, q, t, w, x, y]
+Word: -----
+Enter guess: o
+Sorry, there are no o
+
+You have 4 guesses left
+Used letters: [e, i, o, q, t, w, x, y]
+Word: -----
+Enter guess: u
+Sorry, there are no u
+
+You have 3 guesses left
+Used letters: [e, i, o, q, t, u, w, x, y]
+Word: -----
+Enter guess: a
+Yes, there is 1 a
+
+You have 3 guesses left
+Used letters: [a, e, i, o, q, t, u, w, x, y]
+Word: --a--
+Enter guess: 23
+Invalid input! Enter guess: e2
+Invalid input! Enter guess: 2e
+Invalid input! Enter guess: z
+Sorry, there are no z
+
+You have 2 guesses left
+Used letters: [a, e, i, o, q, t, u, w, x, y, z]
+Word: --a--
+Enter guess: x
+Guess already made! Enter guess: c
+Sorry, there are no c
+
+You have 1 guesses left
+Used letters: [a, c, e, i, o, q, t, u, w, x, y, z]
+Word: --a--
+Enter guess: v
+Sorry, there are no v
+
+Sorry, you lost! The word was: small
